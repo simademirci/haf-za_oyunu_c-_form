@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\bin\Debug\hafıza oyunu 31.exe.config
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\bin\Debug\hafıza oyunu 31.exe
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\bin\Debug\hafıza oyunu 31.pdb
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza_oyunu_31.Form1.resources
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza_oyunu_31.Properties.Resources.resources
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.exe
+C:\Users\PC\source\repos\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.pdb
+C:\Users\dsima\OneDrive\Masaüstü\hafıza oyunu 31\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.csproj.AssemblyReference.cache
+C:\Users\dsima\OneDrive\Masaüstü\hafıza oyunu 31\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.exe.config
+C:\Users\dsima\OneDrive\Masaüstü\hafıza oyunu 31\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.exe
+C:\Users\dsima\OneDrive\Masaüstü\hafıza oyunu 31\hafıza oyunu 31\hafıza oyunu 31\obj\Debug\hafıza oyunu 31.pdb

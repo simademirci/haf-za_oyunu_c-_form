@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE63B99D-D908-48BB-9BD2-890CD0E6DA54}|haf\u0131za oyunu 31\\haf\u0131za oyunu 31.csproj|c:\\users\\dsima\\onedrive\\masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE63B99D-D908-48BB-9BD2-890CD0E6DA54}|haf\u0131za oyunu 31\\haf\u0131za oyunu 31.csproj|solutionrelative:haf\u0131za oyunu 31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE63B99D-D908-48BB-9BD2-890CD0E6DA54}|haf\u0131za oyunu 31\\haf\u0131za oyunu 31.csproj|C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE63B99D-D908-48BB-9BD2-890CD0E6DA54}|haf\u0131za oyunu 31\\haf\u0131za oyunu 31.csproj|solutionrelative:haf\u0131za oyunu 31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE63B99D-D908-48BB-9BD2-890CD0E6DA54}|haf\u0131za oyunu 31\\haf\u0131za oyunu 31.csproj|c:\\users\\dsima\\onedrive\\masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE63B99D-D908-48BB-9BD2-890CD0E6DA54}|haf\u0131za oyunu 31\\haf\u0131za oyunu 31.csproj|solutionrelative:haf\u0131za oyunu 31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\Program.cs",
+              "RelativeDocumentMoniker": "haf\u0131za oyunu 31\\Program.cs",
+              "ToolTip": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\Program.cs",
+              "RelativeToolTip": "haf\u0131za oyunu 31\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:51:10.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\Form1.cs",
+              "RelativeDocumentMoniker": "haf\u0131za oyunu 31\\Form1.cs",
+              "ToolTip": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\Form1.cs",
+              "RelativeToolTip": "haf\u0131za oyunu 31\\Form1.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAADwvxYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:50:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\Form1.cs",
+              "RelativeDocumentMoniker": "haf\u0131za oyunu 31\\Form1.cs",
+              "ToolTip": "C:\\Users\\dsima\\OneDrive\\Masa\u00FCst\u00FC\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\haf\u0131za oyunu 31\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "haf\u0131za oyunu 31\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:39:18.464Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
